@@ -1,10 +1,16 @@
 # :whale2: V.Ä.M.N. Tech
 
-Este é um projeto criado para a aula de Marketing com o objetivo de exemplificar a empresa "criada" em sala de aula. Portanto, todos os dados apresentados no site são fictícios e não devem ser levados a sério.
+Este é um projeto criado para a aula de Marketing com o objetivo de exemplificar a empresa desenvolvida em sala de aula. Portanto, todos os dados apresentados no site são fictícios e não devem ser levados a sério.
 
 ## :sweat_smile: De onde saiu esse nome?
 
 O nome **V.Ä.M.N. Tech** é uma junção do nome dos integrantes do grupo que está realizando esse trabalho, sendo a letra **V** correspondente ao meu nome, com o **Tech** se referindo simplesmente a tecnologia.
+
+## :confused: Do que se trata a empresa?
+
+A **V.Ä.M.N. Tech** é uma empresa de monitoramento de baleias, que realiza esse feito através de um chip implantado em sua nadadeira dorsal. Esse chip imaginário teria a capacidade de converter a energia gerada do movimento da baleia na agua em eletricidade, permitindo que sua bateria nunca acabasse, além de transmitir dados de saúdo do animal, como batimentos cardíacos, nível de oxigênio no sangue e gordura do corpo. 
+
+Todos esses dados seriam enviados em tempo real para nossos servidores que forneceriam essas informações através de nossa plataforma online, assim como nos aplicaticos Android e iOS.
 
 ## :rocket: Tecnologias
 
